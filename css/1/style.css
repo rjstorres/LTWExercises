@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    margin: 1em;
+    padding: 1em;
+}
+
+body > header {
+    background-color :   #046DD5 ;
+    color: white;
+    opacity: 1.0;
+}
